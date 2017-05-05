@@ -295,7 +295,10 @@ I used the protocol listed here for embedding: https://dmdd.org.uk/hrem/
 
 ## Results
 
-The following dataset was obtained from a leaf bud of _Viburnum dentatum_. No post-imaging alignment was used. The images were cropped, downsampled and contrast-adjusted in Photoshop then imported into Amira.
+The following dataset was obtained from a leaf bud of _Viburnum dentatum_ sectioned at 5um
+thickness. 
+No post-imaging alignment was used. The images were cropped, downsampled and
+contrast-adjusted in Photoshop then imported into Amira.
 
 Volume rendering of a leaf bud:
 ![]( figures/volume_rendering.png)
