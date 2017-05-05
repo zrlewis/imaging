@@ -53,7 +53,7 @@ Required components:
 - Resistors
 - Camera remote cable 
     + (Note that here I use Canon EOS digital SLR that uses a 2.5 mm audio cable as a wired remote. I stripped the cable and determined which lead was ground, shutter and focus. Focus is not needed here.)
-    + If a wired remote is not a possibility, then consider making an IR remote. You simply need to download the appropriate control sequence for your camera. Use a NPN transistor to control your IR LED.
+    + If a wired remote is not a possibility, then consider making an IR remote. You simply need to download the appropriate control sequence for your camera. Use an NPN transistor to control your IR LED.
 
 Optional components:
 
