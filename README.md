@@ -49,7 +49,7 @@ Optional components:
 
 ### Programming the Arduino
 
-```{r engine='Rcpp'}
+```c++
 /*
  * Opto-isolated circuit for high resolution episcopic microscopy
  * by Zack Lewis
