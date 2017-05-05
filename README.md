@@ -1,3 +1,7 @@
+# Arduino-based serial block face imaging
+
+## Zachary R. Lewis
+
 # Motivation
 
 I wanted to perform 3-D tissue reconstruction with minimal post-imaging alignment and minimal cost. Micro-CT and histological reconstruction are both great ways to analyze 3-D tissue morphology. However, Micro-CT systems are expensive to purchase and operate and have limited resolution. Histological reconstruction is inexpensive. However, histological reconstruction relies on sectioning, mounting, staining and imaging sections. During section mounting and staining the tissue is distorted. The sections then need to be aligned after imaging, which is difficult and sometimes impossible due to distortion. Imaging a sample while it is embedded inside of a tissue block eliminates any artifacts due to distortion allowing easy alignment of slices. The sections can be made much thinner than conventional histological sections. Furthermore, with block face imaging the sections do not need to be mounted on slides and stained. There may be compromises in terms of image quality with block face imaging compared to transmitted light imaging of histological sections. However, block face imaging can accommodate a number of different tissue types, sizes and stains (preferably fluorescent stains). 
@@ -278,11 +282,11 @@ Volume rendering of a leaf bud:
 ![]( figures/volume_rendering.png)
 
 Sections through the sample and a volume rendering:
-[ Movie 1 ]( figures/movie1.mpg ){ mediatype=video/mpeg } 
+[ Movie 1 ]( figures/movie1.mpg ) 
 
 Spinning volume rendering of a leaf bud:
-[ Movie 2 ]( figures/movie2.mpg ){ mediatype=video/mpeg } 
+[ Movie 2 ]( figures/movie2.mpg ) 
 
 Orthoslices through a volume rendering from bud tip to base:
-[ Movie 3 ]( figures/movie3.mpg ){ mediatype=video/mpeg }
+[ Movie 3 ]( figures/movie3.mpg )
 
