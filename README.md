@@ -4,7 +4,26 @@
 
 # Motivation
 
-I wanted to perform 3-D tissue reconstruction with minimal post-imaging alignment and minimal cost. Micro-CT and histological reconstruction are both great ways to analyze 3-D tissue morphology. However, Micro-CT systems are expensive to purchase and operate and have limited resolution. Histological reconstruction is inexpensive. However, histological reconstruction relies on sectioning, mounting, staining and imaging sections. During section mounting and staining the tissue is distorted. The sections then need to be aligned after imaging, which is difficult and sometimes impossible due to distortion. Imaging a sample while it is embedded inside of a tissue block eliminates any artifacts due to distortion allowing easy alignment of slices. The sections can be made much thinner than conventional histological sections. Furthermore, with block face imaging the sections do not need to be mounted on slides and stained. There may be compromises in terms of image quality with block face imaging compared to transmitted light imaging of histological sections. However, block face imaging can accommodate a number of different tissue types, sizes and stains (preferably fluorescent stains). 
+I wanted to perform 3-D tissue reconstruction with minimal post-imaging
+alignment and minimal cost. Micro-CT and histological reconstruction are both
+great ways to analyze 3-D tissue morphology. However, Micro-CT systems are
+expensive to purchase and operate and have limited resolution. Histological
+reconstruction is inexpensive. However, histological reconstruction relies on
+sectioning, mounting, staining and imaging sections. During section mounting
+and staining the tissue is distorted. The sections then need to be aligned
+after imaging, which is difficult and sometimes impossible due to distortion. 
+
+## Advantages of block face imaging
+
+Block face imaging is also known as High Resolution Episcopic Microscopy. 
+Imaging a sample while it is embedded inside of a tissue block eliminates any
+artifacts due to distortion allowing easy alignment of slices. The sections
+can be made much thinner than conventional histological sections.
+Furthermore, with block face imaging the sections do not need to be mounted
+on slides and stained. There may be compromises in terms of image quality
+with block face imaging compared to transmitted light imaging of histological
+sections. However, block face imaging can accommodate a number of different
+tissue types, sizes and stains (preferably fluorescent stains). 
 
 # Materials
 
