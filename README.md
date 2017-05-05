@@ -304,8 +304,8 @@ Sections through the sample and a volume rendering:
 [ Movie 1 ]( https://youtu.be/NxrEc0CkRQM ) 
 
 Spinning volume rendering of a leaf bud:
-[ Movie 2 ]( figures/movie2.mpg ) 
+[ Movie 2 ]( https://youtu.be/Sc_PcjsgytI ) 
 
 Orthoslices through a volume rendering from bud tip to base:
-[ Movie 3 ]( figures/movie3.mpg )
+[ Movie 3 ]( https://youtu.be/fHgu-WmEwhg )
 
