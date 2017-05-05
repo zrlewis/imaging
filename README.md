@@ -67,7 +67,7 @@ Optional components:
 
 
 ### Programming the Arduino
-
+---
 ```c++
 /*
  * Opto-isolated circuit for high resolution episcopic microscopy
@@ -215,7 +215,7 @@ void setColor(int red, int green, int blue)
   analogWrite(bluePin, blue);  
 }
 ```
-
+---
 ### Instrumenting the microtome
 
 The entire block face imaging setup is depicted here.
