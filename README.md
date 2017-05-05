@@ -218,7 +218,7 @@ void setColor(int red, int green, int blue)
 
 ### Instrumenting the microtome
 
-The whole block face imaging setup is depicted here.
+The entire block face imaging setup is depicted here.
 
 ![](figures/imaging_setup.png)
 
