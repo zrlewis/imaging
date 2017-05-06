@@ -72,7 +72,8 @@ Optional components:
 
 I used a proto board to construct my circuit. 
 
-![](figures/circuit_board.jpg)
+<img src="figures/circuit_board.jpg" width = "600" />
+
 
 ### Programming the Arduino
 ---
