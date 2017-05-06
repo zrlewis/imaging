@@ -314,12 +314,16 @@ Volume rendering of a leaf bud:
 ![]( figures/volume_rendering.png)
 
 Sections through the sample and a volume rendering:
-[ Movie 1 ]( https://youtu.be/NxrEc0CkRQM ) 
+ 
+[![](https://img.youtube.com/vi/NxrEc0CkRQM/0.jpg)](https://youtu.be/NxrEc0CkRQM)
+
 
 Spinning volume rendering of a leaf bud:
-[ Movie 2 ]( https://youtu.be/Sc_PcjsgytI ) 
+ 
+[![](https://img.youtube.com/vi/Sc_PcjsgytI/0.jpg)](https://youtu.be/Sc_PcjsgytI)
+
 
 Orthoslices through a volume rendering from bud tip to base:
-[ Movie 3 ]( https://youtu.be/fHgu-WmEwhg )
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fHgu-WmEwhg/0.jpg)](https://youtu.be/fHgu-WmEwhg)
+
+[![](https://img.youtube.com/vi/fHgu-WmEwhg/0.jpg)](https://youtu.be/fHgu-WmEwhg)
 
