@@ -19,32 +19,22 @@ Episcopic surface imaging involves taking a series of pictures of the face of a 
 tissue prior to sectioning the tissue on a microtome. The block is then cut with a microtome, removing
 a thin section and exposing a deeper layer of tissue. The block is imaged again and through 
 successive rounds of cutting and imaging a 3-D model of the tissue can be generated.
-Episcopic surface imaging is also known as High resolution episcopic microscopy. 
+Episcopic surface imaging is also known as high resolution episcopic microscopy. 
 Imaging a sample while it is embedded inside of a tissue block eliminates
-artifacts due to distortion, allowing easy alignment of slices. The sections
-can be made thinner than conventional histological sections.
+artifacts due to distortion, allowing easy alignment (registration) of the slices. 
+The sections can be made thinner than conventional histological sections.
 Furthermore, with surface imaging the sections do not need to be mounted
 on slides and stained. There may be compromises in terms of image quality
 with surface imaging compared to transmitted light imaging of histological
 sections. However, surface imaging can accommodate a number of different
 tissue types, sizes and stains (preferably fluorescent stains). 
 
-# Materials
-
-- Arduino UNO
-- Microscope
-- Digital camera with wired remote capabilities
-- Manual rotary microtome (with stationary knife)
-- Mirror
-- Tactile button
-- Opto-isolator
-- Embedding solution (see below)
-
 # Methods
 
 ## Constructing the electronics
 
-I leaned heavily on this excellent webpage discussing utilizing opto-isolators for activating camera shutter remotes: http://www.martyncurrey.com/activating-the-shutter-release/
+I leaned heavily on this excellent webpage discussing utilizing opto-isolators for 
+activating camera shutter remotes: http://www.martyncurrey.com/activating-the-shutter-release/
 
 
 ### Materials
@@ -55,9 +45,14 @@ Required components:
 - [Opto-isolator (FL817C used here)](https://www.amazon.com/uxcell-2-54mm-Pitch-Mounting-Coupler/dp/B00S4YRMB4/ref=sr_1_1?ie=UTF8&qid=1489681887&sr=8-1&keywords=optocoupler)
 - Tactile button
 - Resistors
+- Microscope
+- Manual rotary microtome (with stationary knife)
+- Mirror
+- Digital camera with wired remote capabilities
 - Camera remote cable 
     + (Note that here I use Canon EOS digital SLR that uses a 2.5 mm audio cable as a wired remote. I stripped the cable and determined which lead was ground, shutter and focus. Focus is not needed here.)
     + If a wired remote is not a possibility, then consider making an IR remote. You simply need to download the appropriate control sequence for your camera. Use an NPN transistor to control your IR LED.
+
 
 Optional components:
 
