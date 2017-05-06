@@ -2,6 +2,9 @@
 
 ## Zachary R. Lewis
 
+<zachary_lewis@brown.edu>
+<http://lewis.science>
+
 ![](https://github.com/zrlewis/imaging/blob/master/figures/volren_trim.gif)
 
 # Motivation
