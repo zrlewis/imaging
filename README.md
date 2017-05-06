@@ -307,8 +307,8 @@ least an hour at room temperature (4 hours recommended), then place at 4C overni
 
 The following dataset was obtained from a leaf bud of _Viburnum dentatum_ sectioned at 5um
 thickness. 
-No post-imaging alignment was used. The images were cropped, downsampled and
-contrast-adjusted in Photoshop then imported into Amira.
+No post-imaging alignment was used. The images were cropped, downsampled, converted to greyscale
+ and contrast-adjusted in Photoshop then imported into Amira.
 
 Volume rendering of a leaf bud:
 ![]( figures/volume_rendering.png)
