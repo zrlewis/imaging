@@ -230,6 +230,8 @@ the same focal plane from image to image. The specimen arm is parallel to the gr
 I attached the tactile button, mounted on a circuit board, to the microtome so that it 
 would be depressed when the specimen is at the upper extreme of its trajectory.
 
+![]( figures/trigger_trimmed3.gif )
+
 ![](figures/trigger.jpg)
 
 #### Mirror
