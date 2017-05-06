@@ -236,6 +236,8 @@ would be depressed when the specimen is at the upper extreme of its trajectory.
 
 ![](figures/trigger.jpg)
 
+<img src="figures/trigger.jpg" alt="trigger" style="width: 200px;"/>
+
 #### Mirror
 
 In contrast to typical episcopic surface imaging where the microscope objective is mounted parallel to the sample, 
