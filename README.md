@@ -234,9 +234,7 @@ would be depressed when the specimen is at the upper extreme of its trajectory.
 
 ![](https://github.com/zrlewis/imaging/blob/master/figures/trigger_trimmed.gif)
 
-![](figures/trigger.jpg)
-
-<img src="figures/trigger.jpg" width = "300" />
+<img src="figures/trigger.jpg" width = "400" />
 
 #### Mirror
 
