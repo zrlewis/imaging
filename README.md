@@ -2,6 +2,8 @@
 
 ## Zachary R. Lewis
 
+![](https://github.com/zrlewis/imaging/blob/master/figures/volren_trim.gif)
+
 # Motivation
 
 I wanted to perform 3-D tissue reconstruction with minimal post-imaging
