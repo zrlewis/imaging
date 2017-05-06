@@ -313,6 +313,10 @@ No post-imaging alignment was used. The images were cropped, downsampled, conver
 Volume rendering of a leaf bud:
 ![]( figures/volume_rendering.png)
 
+### Movies:
+
+Click each thumbnail to watch the video on YouTube.
+
 Sections through the sample and a volume rendering:
  
 [![](https://img.youtube.com/vi/NxrEc0CkRQM/0.jpg)](https://youtu.be/NxrEc0CkRQM)
