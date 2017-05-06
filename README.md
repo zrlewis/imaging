@@ -236,7 +236,7 @@ would be depressed when the specimen is at the upper extreme of its trajectory.
 
 ![](figures/trigger.jpg)
 
-<img src="figures/trigger.jpg" width = "150" />
+<img src="figures/trigger.jpg" width = "300" />
 
 #### Mirror
 
