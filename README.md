@@ -1,4 +1,4 @@
-# Arduino-based serial block face imaging
+# Arduino-based serial episcopic imaging for 3-D reconstruction of tissue morphology
 
 ## Zachary R. Lewis
 
@@ -13,16 +13,20 @@ sectioning, mounting, staining and imaging sections. During section mounting
 and staining the tissue is distorted. The sections then need to be aligned
 after imaging, which is difficult and sometimes impossible due to distortion. 
 
-## Advantages of block face imaging
+## Advantages of episcopic surface imaging
 
-Block face imaging is also known as High Resolution Episcopic Microscopy. 
-Imaging a sample while it is embedded inside of a tissue block eliminates any
-artifacts due to distortion allowing easy alignment of slices. The sections
-can be made much thinner than conventional histological sections.
-Furthermore, with block face imaging the sections do not need to be mounted
+Episcopic surface imaging involves taking a series of pictures of the face of a block of embedded
+tissue prior to sectioning the tissue on a microtome. The block is then cut with a microtome, removing
+a thin section and exposing a deeper layer of tissue. The block is imaged again and through 
+successive rounds of cutting and imaging a 3-D model of the tissue can be generated.
+Episcopic surface imaging is also known as High resolution episcopic microscopy. 
+Imaging a sample while it is embedded inside of a tissue block eliminates
+artifacts due to distortion, allowing easy alignment of slices. The sections
+can be made thinner than conventional histological sections.
+Furthermore, with surface imaging the sections do not need to be mounted
 on slides and stained. There may be compromises in terms of image quality
-with block face imaging compared to transmitted light imaging of histological
-sections. However, block face imaging can accommodate a number of different
+with surface imaging compared to transmitted light imaging of histological
+sections. However, surface imaging can accommodate a number of different
 tissue types, sizes and stains (preferably fluorescent stains). 
 
 # Materials
@@ -218,21 +222,26 @@ void setColor(int red, int green, int blue)
 ---
 ### Instrumenting the microtome
 
-The entire block face imaging setup is depicted here.
+The entire episcopic surface imaging setup is depicted below.
 
 ![](figures/imaging_setup.png)
 
-The microtome is an AO Spencer 820 manual rotary microtome, which can be purchased online for cheap. For this setup the knife is stationary, meaning that the block face remains in the same focal plane from image to image. The specimen arm is parallel to the ground.
+The microtome is an AO Spencer 820 manual rotary microtome, which can be purchased online 
+for cheap (around $200). For this setup the knife is stationary, meaning that the block face remains in 
+the same focal plane from image to image. The specimen arm is parallel to the ground.
 
 #### Trigger
 
-I attached the tactile button, mounted on a circuit board, to the microtome so that it would be depressed when the specimen is at the upper extreme of its trajectory.
+I attached the tactile button, mounted on a circuit board, to the microtome so that it 
+would be depressed when the specimen is at the upper extreme of its trajectory.
 
 ![](figures/trigger.jpg)
 
 #### Mirror
 
-In contrast to typical block face imaging where the microscope objective is mounted parallel to the sample, I employed a mirror at a 45 degree angle so that the microscope could sit vertically at its natural position, which is perpendicular to the sample.
+In contrast to typical episcopic surface imaging where the microscope objective is mounted parallel to the sample, 
+I employed a mirror at a 45 degree angle so that the microscope could sit vertically at its natural position, 
+which is perpendicular to the sample.
 
 ![](figures/mirror.png)
 
@@ -258,7 +267,9 @@ I used the protocol listed here for embedding: https://dmdd.org.uk/hrem/
 ### Embedding method
 
 #### Dye Mix preparation
-1. Prepare JB-4 Dye Mix by dissolving 1.25% (w/v) catalyst into Solution A using a stir plate on high speed. Slowly add 0.275% (w/v) of Eosin B while mixing. Mix solution for at least an hour at room temperature (4 hours recommended), then place at 4C overnight.
+1. Prepare JB-4 Dye Mix by dissolving 1.25% (w/v) catalyst into Solution A using a stir 
+plate on high speed. Slowly add 0.275% (w/v) of Eosin B while mixing. Mix solution for at 
+least an hour at room temperature (4 hours recommended), then place at 4C overnight.
 2. Filtering is recommended, but no dye particles were observed.
 3. Store Dye Mix at 4C. It should be stable for 2 - 3 weeks.
 
