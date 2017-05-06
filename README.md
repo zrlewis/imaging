@@ -70,7 +70,9 @@ Optional components:
 
 ![](figures/annotated_schematic.png)
 
+I used a proto board to construct my circuit. 
 
+![](figures/circuit_board.jpg)
 
 ### Programming the Arduino
 ---
