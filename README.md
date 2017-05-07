@@ -314,7 +314,8 @@ least an hour at room temperature (4 hours recommended), then place at 4C overni
 ## Results
 
 The following dataset was obtained from a leaf bud of _Viburnum dentatum_ sectioned at 5um
-thickness. 
+thickness. Generating 485 slices took approximately 45 minutes.
+
 No post-imaging alignment was used. The images were cropped, downsampled, converted to greyscale
  and contrast-adjusted in Photoshop then imported into Amira.
 
