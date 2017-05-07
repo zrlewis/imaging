@@ -276,17 +276,17 @@ I used the protocol listed here for embedding: https://dmdd.org.uk/hrem/
 #### Dye Mix preparation
 1. Prepare JB-4 Dye Mix by dissolving 1.25% (w/v) catalyst into Solution A using a stir 
 plate on high speed. Slowly add 0.275% (w/v) of Eosin B while mixing. Mix solution for at 
-least an hour at room temperature (4 hours recommended), then place at 4C overnight.
+least an hour at room temperature (4 hours recommended), then place at 4&deg;C overnight.
 2. Filtering is recommended, but no dye particles were observed.
-3. Store Dye Mix at 4C. It should be stable for 2 - 3 weeks.
+3. Store Dye Mix at 4&deg;C. It should be stable for 2 - 3 weeks.
 
 #### Tissue infiltration
 4. Starting from a fixed specimen, wash out any fixative with an appropriate buffer.
 5. Slowly dehydrate specimen in methanol at 10% increments (e.g., 10%, 20%, 30%, ..., 100%). The methanol should be diluted with the buffer you used to wash the specimen. I used 1 hour washes, but the duration is dependent on the size of the tissue.
 6. Perform several long washes in 100% methanol.
-7. Immerse the specimen overnight in a 50:50 mix of 100% methanol:Dye Mix.
+7. Immerse the specimen overnight at 4&deg;C in a 50:50 mix of 100% methanol:Dye Mix.
 8. Rinse the sample with 100% Dye Mix, then exchange this Dye Mix for fresh 100% Dye Mix. 
-9. Incubate specimen at 4C until fully infiltrated. I waited for 3 days, though it is likely faster for small specimens.
+9. Incubate specimen at 4&deg;C until fully infiltrated. I waited for 3 days, though it is likely faster for small specimens.
 
 #### Embedding
 10. Add 0.6 mL of JB-4 Solution B to the cold Dye Mix and mix very well. Vortexing works fine.
