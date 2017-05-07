@@ -7,7 +7,7 @@
 
 <http://lewis.science>
 
-![](https://github.com/zrlewis/imaging/blob/master/figures/volren_trim2.gif)
+![](https://github.com/zrlewis/imaging/blob/master/figures/volren_trim3.gif)
 
 # Motivation
 
