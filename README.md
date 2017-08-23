@@ -2,7 +2,7 @@
 
 ## Zachary R. Lewis
 
-<zachary_lewis@brown.edu>
+<zachary.lewis@yale.edu>
 
 
 <http://lewis.science>
