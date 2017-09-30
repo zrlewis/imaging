@@ -302,7 +302,7 @@ least an hour at room temperature (4 hours recommended), then place at 4&deg;C o
 
 1. Once the epoxy has set, place your chuck into the specimen clamp of the microtome. 
 2. Adjust position of the specimen arm and knife. Adjust the angle of the chuck to be perpindicular to the knife. 
-3. Place mirror in a clamp and adjust it's angle to 45 degrees using a carpenter's square.
+3. Place mirror in a clamp and adjust its angle to 45 degrees using a carpenter's square.
 4. Advance the block until it is just shy of contacting the knife. Square off the block.
 5. Move microscope and mirror into position. Adjust the height of the mirror and microscope to visualize the block face at the top (locked) position in the microtome.
 6. Adjust focus using the camera. 
